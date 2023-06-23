@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=PWR_LED_K Pin=D4-1
+Removed Pin From Net: NetName=+3v3 Pin=D4-2
+Removed Pin From Net: NetName=LoRa ANT Pin=L2-1
+Change Component Footprint: Designator=D4 Old Footprint=FP-SML-P11UTT86-MFG New Footprint=VISH-TLMS1000_V
+Change Component Comment : Designator=D4 Old Comment=LED New Comment=PWR_LED
+Change Managed Component Library Link : Designator=D4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=545C8F92-70EA-4A80-A4EF-7D071E6F31B1 New ItemGUID=8E6A14BA-42FD-4004-8FF0-006D57CCDAFC Old RevisionGUID=B3A3465C-5A2E-4CB5-9960-56158261CDA0 New RevisionGUID=E7E511A2-6327-440E-81D9-361202FCA987
+Change component parameters: Designator = "D4" ("D4"); Footprint = "FP-SML-P11UTT86-MFG"; UniqueID = "\LSXIBMAT\ZCAUZJQU" ("\LSXIBMAT\ZCAUZJQU")
+Change component parameters (AddParameter): Name = "Automotive Qualification Standard"; Value = "AEC-Q100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Bulb Size"; Value = "1.6mmx0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/5798/1698881-5798337.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 1.7, 02/2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current If"; Value = "2mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "1.8V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LED Colour"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LED Mounting"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "4mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MSL"; Value = "MSL2-1year"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.8 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "TLMS1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SVHC"; Value = "ToBeAdvised"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "80°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength Typ"; Value = "636nm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LoRa ANT Pin=C5-2
+Added Pin To Net: NetName=LoRa ANT Pin=C7-1
+Added Pin To Net: NetName=LoRa ANT Pin=C8-2
+Added Pin To Net: NetName=LoRa ANT Pin=C9-1
+Added Pin To Net: NetName=+3v3 Pin=D4-1
+Added Pin To Net: NetName=PWR_LED_K Pin=D4-2
